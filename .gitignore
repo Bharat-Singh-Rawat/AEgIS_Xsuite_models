@@ -1,0 +1,12 @@
+*.png
+*.csv
+*.tfs
+*.madx
+*.parquet
+*.xlsx
+trackone*
+np
+checkpoint_restart.dat
+lne_repo
+report/
+__pycache__/
